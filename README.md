@@ -47,3 +47,11 @@ For this ga_pso repo example :
 conda install numpy seaborn tabulate
 ```
 
+## Helpful cheat sheet
+
+### conda
+`conda env list` # lists all environments
+`conda list` # lists all packages installed in current environment
+
+### jupyter notebook
+`h` for a list of commands
