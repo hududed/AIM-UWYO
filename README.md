@@ -51,6 +51,7 @@ conda install numpy seaborn tabulate
 
 ### conda
 `conda env list` # lists all environments
+
 `conda list` # lists all packages installed in current environment
 
 ### jupyter notebook
